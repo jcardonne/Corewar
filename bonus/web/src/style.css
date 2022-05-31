@@ -1,0 +1,51 @@
+.navbar {
+    background-color: #333;
+    overflow: hidden;
+}
+
+.navbar a {
+    float: left;
+    color: #fff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: solid;
+    font-size: 20px;
+
+}
+
+.navbar a:hover {
+    background-color: rgb(255, 0, 0);
+    color: black;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 40px;
+}
+
+h2 {
+    text-align: center;
+    color: black;
+    font-size: 38px;
+}
+
+p {
+    text-align: center;
+    font-size: 35px;
+    margin: -1px;
+    color: black;
+    white-space: pre-wrap;
+}
+
+li {
+    text-align: center;
+    font-size: 32px;
+    margin: -1px;
+    color: black;
+    white-space: pre-wrap;
+}
+
+a {
+    color: black;
+}
